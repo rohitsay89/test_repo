@@ -4,3 +4,5 @@ this is the 1st edit in test_branch1
 this is the 2nd edit in test_branch1
 
 this is the 1st edit in test_branch2
+
+This is now merged and edited in master branch.
