@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// added a comment to do test  merge with master branch
 int a = 500;
 int b = 10;
 
