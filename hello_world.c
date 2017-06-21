@@ -19,7 +19,7 @@ int mul( int a , int b)
 int main(int argc, char **argv)
 {
 	printf("Hellow World !!");
-  printf("multiplication of 2 numbers is : %d \n", mul( a, b ));
+  	printf("multiplication of 2 numbers is : %d \n", mul( a, b ));
 	printf("addition is :%d \n", add( a , b ));
 	return 0;
 }
